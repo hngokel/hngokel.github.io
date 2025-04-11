@@ -1,0 +1,14 @@
+/* Kartlar */
+.navbar-nav {
+  align-items: center;
+}
+
+.navbar-brand img {
+  vertical-align: middle;
+}
+
+          
+.carousel-control-prev, .carousel-control-next {
+  background-color: rgba(0, 0, 0, 0.5); /* Siyah arka plan %50 saydamlık */
+  width: 20px; /* Buton genişliği */
+}
